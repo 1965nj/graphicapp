@@ -26,7 +26,10 @@
 
 .App-link {
   color: #61dafb;
+  justify-content: center;
+  
 }
+
 
 @keyframes App-logo-spin {
   from {
@@ -35,4 +38,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+body {
+  background-color: #6C768A  ;
+}
+.dijkstra{
+  flex: 1;
+  padding : 10 px;
+  margi:100px;
 }
